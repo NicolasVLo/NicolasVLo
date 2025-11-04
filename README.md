@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy <span style="color:#00BFFF;">Nicolás Velandia</span></h1>
+<h1 align="center">👋 ¡Hola! Soy <span style="color:#00BFFF;">Nicolas Velandia</span></h1>
 <h3 align="center">🚀 Apasionado por la Ingeniería y el Análisis de Datos</h3>
 
 ---
@@ -58,10 +58,10 @@ Me interesa el **procesamiento de datos, la optimización de consultas, la anal�
 
 ### 📫 Conecta conmigo
 <p align="center">
-  <a href="="https://www.linkedin.com/in/nicolas-velandia-lopez-91923528b" target="_blank">
+  <a href="https://www.linkedin.com/in/nicolas-velandia-lopez-91923528b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:nvelandialop@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nvelandialop@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/NicolasVLo">
