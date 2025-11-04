@@ -58,7 +58,7 @@ Me interesa el **procesamiento de datos, la optimización de consultas, la anal�
 
 ### 📫 Conecta conmigo
 <p align="center">
-  <a href="www.linkedin.com/in/nicolas-velandia-lopez-91923528b" target="_blank">
+  <a href="="https://www.linkedin.com/in/nicolas-velandia-lopez-91923528b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:nvelandialop@gmail.com">
