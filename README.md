@@ -1,4 +1,3 @@
-<!-- Encabezado principal con animación -->
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#00BFFF;">Nicolás Velandia</span></h1>
 <h3 align="center">🚀 Apasionado por la Ingeniería y el Análisis de Datos</h3>
 
@@ -18,14 +17,17 @@ Me interesa el **procesamiento de datos, la optimización de consultas, la anal�
 #### 💾 Bases de Datos
 <p align="left">
   <img src="https://img.shields.io/badge/Teradata-FF8800?style=for-the-badge&logo=teradata&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 #### 🐍 Lenguajes y Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
@@ -56,13 +58,13 @@ Me interesa el **procesamiento de datos, la optimización de consultas, la anal�
 
 ### 📫 Conecta conmigo
 <p align="center">
-  <a href="https://www.linkedin.com/in/nicolasvelandia" target="_blank">
+  <a href="www.linkedin.com/in/nicolas-velandia-lopez-91923528b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:nicolas.velandia@gmail.com">
+  <a href="mailto:nvelandialop@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/nicolasvelandia">
+  <a href="https://github.com/NicolasVLo">
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
